@@ -4,7 +4,7 @@ I'm a full-stack developer based in Germany with experience building production-
 
 - **Currently working on:** Employee Reminder App, Farmer Direct Marketplace, Campus Recruitment System, Railway Reservation System, and Patel's Rasoi Cooking Studio.
 - **Tech stack:** Java | Spring Boot | Angular | React | PostgreSQL | MySQL | SQL | AWS | Docker | Kubernetes | GitLab CI/CD | Microservices | REST APIs | Cloud-Native Applications | Test Automation | Agile | DevOps
-- **Reach me:** [LinkedIn](https://www.linkedin.com/in/madhuri-fullstack-developer/) | [Portfolio](https://my-portfolio-site-lyart-pi.vercel.app)
+- **Reach me:** [LinkedIn](https://www.linkedin.com/in/madhuri-fullstack-developer/) | [Portfolio](https://my-portfolio-site-ruddy-five.vercel.app/)
 - **Currently open to work** in Germany (remote or on-site)
 
 ## About Me
